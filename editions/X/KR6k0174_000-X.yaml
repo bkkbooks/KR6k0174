@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0174/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律藏大小持戒犍度略釋
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X44/X44n0745.xml
+    old_id: X44n0745
+hash: sha256:7d09a96435e3d67bb836e253c75ad24e93b80d3e64c9934a4f5a30120b3412ea

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0174/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0174/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律藏大小持戒犍度略釋
+  identifiers:
+    krp: KR6k0174
+    cbeta: X44n0745
+    cbeta_old_id: X44n0745
+    authorityid: CA0002820
+    json_key: X0745
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X44/X44n0745.xml
+    old_id: X44n0745
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0174_000-X.yaml, hash: 'sha256:7d09a96435e3d67bb836e253c75ad24e93b80d3e64c9934a4f5a30120b3412ea'}
+  - {seq: 1, filename: KR6k0174_001-X.yaml, hash: 'sha256:b3686338c31c9ecd5ccc1c036280522c9d7e92ebb40782c5c2438ea803d8fad4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0174_000-X.markers.yaml, hash: 'sha256:2bad6573e678c8795b5308e7fed20950d7d8a20f2771d1307b7eea8149e0c323'}
+  - {seq: 1, role: markers, filename: assets/KR6k0174_001-X.markers.yaml, hash: 'sha256:0ef2befe30e428e346e443b68d66414841cbca91331996c60d5e563527dfe1c9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0174_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 14999
+  label: 四分律藏大小持戒犍度略釋
+  type: juan
+  level: 1
+hash: sha256:1751c998af4d0028b77575fa1cdd06319b9f9cf7b05ad16ca56482dc600d3f95
