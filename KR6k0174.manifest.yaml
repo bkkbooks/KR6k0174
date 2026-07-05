@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0174_000.yaml, hash: 'sha256:7d09a96435e3d67bb836e253c75ad24e93b80d3e64c9934a4f5a30120b3412ea'}
-  - {seq: 1, filename: KR6k0174_001.yaml, hash: 'sha256:051ab024c14467fe96d8ef8f7d4af161e1c59bee46934fd54ccbd837bed045a4'}
+  - {seq: 1, filename: KR6k0174_001.yaml, hash: 'sha256:b3686338c31c9ecd5ccc1c036280522c9d7e92ebb40782c5c2438ea803d8fad4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0174_001.markers.yaml, hash: 'sha256:7f79b5d1b8b297fa510ca19029b5697bd96e1cd0aeaccb43f030e8ffe37503d1'}
+  - {seq: 0, role: markers, filename: assets/KR6k0174_000.markers.yaml, hash: 'sha256:e8e13c42f45171c60bead4ec86a100709003fbb08cd24fc025bb94c45e60c5b5'}
+  - {seq: 1, role: markers, filename: assets/KR6k0174_001.markers.yaml, hash: 'sha256:04a17d5c91a3aa9e0ea8da52b0b8a5f6ef7a9869e9f3b57c43e9cba16d2997ad'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 四分律藏大小持戒犍度略釋
   type: juan
   level: 1
-hash: sha256:0a2639090fc8914b99162bf5d34d1f79f671607520acba5ee97b2b8c7c3dbb66
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:851abede836ab40b9510f3959292da94fc39f8b46a2bb11b3ab1f6a63f10a498
